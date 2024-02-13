@@ -19,7 +19,7 @@ const DUMMY_PLACES = [
     },
     {
         id: 'p2',
-        title: 'Empire State',
+        title: 'Emp. State',
         description: 'One of the most famous building',
         imageUrl: 'https://lh3.googleusercontent.com/p/AF1QipMDv3C-fXXvEvttpkkgNG5Rg52BwR4SBaA1w0dR=s680-w680-h510',
         address: '20 W 34th St., New York, NY 10001',
